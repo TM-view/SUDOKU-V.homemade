@@ -1,4 +1,4 @@
-</h3> Hello everyone
+</h1> Hello everyone </br>
     </p>firstly i thanks for visiting this coding beginner
     </p>Secondly will be explain gameplay of my SUDOKU
         </p>1. The number below is the number we will choose to enter in the missing grid
@@ -7,5 +7,5 @@
                </p>will turn green (it is recommended to unselect the numbers before highlighting them, you can do this by clicking on the numbers 
                </p>again and you will notice that the numbers will change from blue to white).
         </p>4. When the number reaches 9 digits, you will not be able to select that number again (the numbers below will disappear)
-    </p>Third(Skip Optional) this is first game that i made maybe bug or some function are missing i apologize
-</h3>Finally, have fun!
+    </p>Third(Skip Optional) this is first game that i made maybe bug or some function are missing i apologize </br>
+</h1>Finally, have fun!
