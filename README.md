@@ -1,4 +1,4 @@
-Hello everyone 
+<h3> Hello everyone </h3></br>
     firstly i thanks for visiting this coding beginner 
     Secondly will be explain gameplay of my SUDOKU
         1. The number below is the number we will choose to enter in the missing grid
